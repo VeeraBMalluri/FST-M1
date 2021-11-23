@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="SeleniumProject">
+    <test name="Project">
+        <classes>
+            <class name= "in.ibm.com.selProj.Activity1"/>
+            <class name= "in.ibm.com.selProj.Activity2"/>
+            <class name= "in.ibm.com.selProj.Activity3"/>
+            <class name= "in.ibm.com.selProj.Activity4"/>
+            <class name= "in.ibm.com.selProj.Activity5"/>
+            <class name= "in.ibm.com.selProj.Activity6"/>
+            <class name= "in.ibm.com.selProj.Activity7"/>
+            <class name= "in.ibm.com.selProj.Activity8"/>
+            <class name= "in.ibm.com.selProj.Activity9"/>
+            
+        </classes>
+    </test>
+</suite>
