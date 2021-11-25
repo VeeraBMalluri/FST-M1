@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Examplesuite" parallel = "classes">
+    <test name="Suitetests">
+        <classes>
+        	<class name="in.ibm.com.testNgTests.Activity1"/>
+        	<class name="in.ibm.com.testNgTests.Activity2"/>
+        	<class name="in.ibm.com.testNgTests.Activity3"/>
+        	<class name="in.ibm.com.testNgTests.Activity5"/>
+        	<class name="in.ibm.com.testNgTests.Activity6"/>
+        	<class name="in.ibm.com.testNgTests.Activity7"/>
+        
+        </classes>
+    </test>
+</suite>
